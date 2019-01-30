@@ -1,6 +1,6 @@
 # Facg6-crash-course-final-project
 ## Project
-- Use what you learned during the crash course and build a simple Calculator that can add, subtract, multiply or divide depending upon the input from the user.
+- Use what you learned during the crash course and build a **Simple Calculator** that can add, subtract, multiply or divide depending upon the input from the user.
 
 ### We expected you to show us:
   - A good using for the **HTML & CSS**.
